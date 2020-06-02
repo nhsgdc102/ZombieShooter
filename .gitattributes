@@ -1,0 +1,14 @@
+# text files (full name)
+.gitattributes  text
+.gitignore      text
+
+# text files (extension)
+*.cpp       text
+*.h         text
+*.cs        text
+*.ini       text
+*.uproject  text
+
+# binary files (extension)
+*.uasset    binary
+*.umap      binary
