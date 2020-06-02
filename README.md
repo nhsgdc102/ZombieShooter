@@ -1,7 +1,7 @@
 ## ZombieShooter
 
 Instructions to make your own changes:
-1. Download Github Desktop and make a local branch of this repository (name it YourName_00)
+1. Download Github Desktop and clone this repository. Then make a local branch (name it YourName_00)
 2. Right-click on the .uproject file and select "generate project files" (make sure you have UnrealEngine version 4.24.# installed first)
 3. Then double-click on the .uproject file to open it up in the editor and make changes.
 4. Once you are done, commit those changes to your local branch.
